@@ -36,14 +36,6 @@ uses= "peaceiris/actions-gh-pages@v3.7.3"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "game_dev_logs"
-    pre = ""
-    post = ""
-    name = "GameDev Log"
-    url = "/game_dev_logs/"
-    title = ""
-    weight = 2
-  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""

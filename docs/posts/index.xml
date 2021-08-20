@@ -4,16 +4,7 @@
         <link>https://th1nhng0.github.io/posts/</link>
         <description>All Posts | Thịnh Ngô Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ngophuthinh2001@gmail.com (Thịnh Ngô)</managingEditor>
-            <webMaster>ngophuthinh2001@gmail.com (Thịnh Ngô)</webMaster><lastBuildDate>Wed, 16 Jun 2021 10:02:32 &#43;0000</lastBuildDate><atom:link href="https://th1nhng0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Alan Turing</title>
-    <link>https://th1nhng0.github.io/alan-turing/</link>
-    <pubDate>Wed, 16 Jun 2021 10:02:32 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://th1nhng0.github.io/alan-turing/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/2021/alan.jpg" referrerpolicy="no-referrer">
-            </div>Giới thiệu Alan Mathison Turing (23/06/1912 – 07/06/1954) là một nhà toán học, nhà khoa học máy tính, logic học, nhà phân tích mật mã, triết gia , và nhà sinh học lý thuyết. Turing có ảnh hưởng lớn đến sự phát triển của ngành khoa học máy tính, cung cấp các khái niệm về tính toán và thuật toán bằng công trình máy Turing của mình, có thể coi là một mô hình của máy tính đa năng.]]></description>
-</item><item>
+            <webMaster>ngophuthinh2001@gmail.com (Thịnh Ngô)</webMaster><lastBuildDate>Wed, 06 Jan 2021 02:30:00 &#43;0000</lastBuildDate><atom:link href="https://th1nhng0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Tạo một bot chat thông minh tự động học bằng python và Chatterbot.</title>
     <link>https://th1nhng0.github.io/chatterbot-python/</link>
     <pubDate>Wed, 06 Jan 2021 02:30:00 &#43;0000</pubDate>

@@ -2,20 +2,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://th1nhng0.github.io/alan-turing/</loc><lastmod>2021-06-16T10:02:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://th1nhng0.github.io/tags/history/</loc><lastmod>2021-06-16T10:02:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://th1nhng0.github.io/posts/</loc><lastmod>2021-06-16T10:02:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://th1nhng0.github.io/tags/</loc><lastmod>2021-06-16T10:02:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://th1nhng0.github.io/</loc><lastmod>2021-06-16T10:02:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://th1nhng0.github.io/tags/artificial-intelligence/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/categories/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/tags/it/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://th1nhng0.github.io/posts/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/categories/programming/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/tags/python/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://th1nhng0.github.io/tags/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://th1nhng0.github.io/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/chatterbot-python/</loc><lastmod>2021-01-06T02:30:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/tags/c&#43;&#43;/</loc><lastmod>2020-05-11T10:28:42&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/cpp-tip-trick/</loc><lastmod>2020-05-11T10:28:42&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/tags/competitive-programming/</loc><lastmod>2020-05-11T10:28:42&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://th1nhng0.github.io/first-post/</loc><lastmod>2020-04-11T10:28:42&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://th1nhng0.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://th1nhng0.github.io/game_dev_logs/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://th1nhng0.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
